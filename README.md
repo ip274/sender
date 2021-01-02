@@ -12,7 +12,7 @@
 
 > cd sender
 
-> python sender.py
+> python3 sender.py
 
 #how to use sender:
 
