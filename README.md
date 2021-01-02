@@ -5,7 +5,7 @@
 
 # how to install sender
 
-> git clone https://github.com/ip274/sender.git 
+> git clone https://github.com/ip274/sender.git
 
 
 # how to run sender
