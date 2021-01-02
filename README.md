@@ -14,7 +14,8 @@
 
 > python3 sender.py
 
-#how to use sender:
+
+# how to use sender:
 
 الاداة بتطلب ايميل وباسوورد عشان الاداة تقدر تسخدم ايميل ترسل منه
 
